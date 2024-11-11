@@ -1,0 +1,8 @@
+env: ${env}
+cluster_name: ${cluster_name}
+karpenter_nodeclass_arm64_name: ${karpenter_nodeclass_arm64_name}
+karpenter_nodeclass_amd64_name: ${karpenter_nodeclass_amd64_name}
+karpenter_nodeclass_ebs_size: ${karpenter_nodeclass_ebs_size}
+karpenter_nodeclass_ebs_type: ${karpenter_nodeclass_ebs_type}
+karpenter_nodeclass_ebs_delete_on_termination: ${karpenter_nodeclass_ebs_delete_on_termination}
+karpenter_instance_profile: ${karpenter_instance_profile}
